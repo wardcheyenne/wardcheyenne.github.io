@@ -18,6 +18,7 @@ I am an undergraduate researcher at:
 </ul>
 
 My current research interests are:
+
 Geophysics
 <ul style="list-style: none;">
   <li>Predicting Reversals in Earth's Magnetic Axial Dipole</li>
