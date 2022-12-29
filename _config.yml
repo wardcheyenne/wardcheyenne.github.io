@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheyenne Ward"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Cheyenne Ward"
 description              : &description "Undergraduate Researcher"
