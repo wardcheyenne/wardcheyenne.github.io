@@ -11,7 +11,7 @@ redirect_from:
 About Me
 
 I am an undergraduate researcher at:
-<ul>
+<ul style="list-style: none;">
   <li>Merck</li>
   <li>University of California San Diego</li>
   <li>California State University San Bernardino</li>
@@ -19,11 +19,11 @@ I am an undergraduate researcher at:
 
 My current research interests are:
 Geophysics
-<ul>
+<ul style="list-style: none;">
   <li>Predicting Reversals in Earth's Magnetic Axial Dipole</li>
 </ul>
 
 Pharmaceutical/Heath
-<ul>
+<ul style="list-style: none;">
   <li>Predicting Pediatric Sleep Apnea</li>
 </ul>
