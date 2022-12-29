@@ -8,11 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate researcher at:
-<ul style="list-style: none;">
-  <li>University of California San Diego</li>
-  <li>California State University San Bernardino</li>
-</ul>
+I am an undergraduate researcher at University of California San Diego and California State University San Bernardino.
 
 My current research interests are:
 
