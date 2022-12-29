@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About Me"
+title                    : "Cheyenne Ward"
 title_separator          : "-"
-name                     : &name "Cheyenne Ward"
+name                     :
 description              : &description "Undergraduate Researcher"
 url                      : https://wardcheyenne.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
