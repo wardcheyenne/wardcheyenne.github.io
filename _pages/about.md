@@ -13,8 +13,8 @@ About Me
 I am an undergraduate researcher at:
 <ul>
   <li>Merck</li>
-  <li><University of California, San Diego</li>
-  <li>California State University, San Bernardino</li>
+  <li>University of California San Diego</li>
+  <li>California State University San Bernardino</li>
 </ul>
 
 My current research interests are:
