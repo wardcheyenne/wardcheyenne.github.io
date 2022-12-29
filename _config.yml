@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cheyenne Ward / Undergraduate Researcher"
+title                    : "Cheyenne Ward"
 title_separator          : "-"
 name                     : &name "Cheyenne Ward"
 description              : &description "Undergraduate Researcher"
@@ -56,8 +56,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter:
-  username               : &twitter
+#twitter:
+ # username               : &twitter
 facebook:
   username               :
   app_id                 :
