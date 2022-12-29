@@ -12,12 +12,12 @@ I am an undergraduate researcher at University of California San Diego and Calif
 
 My current research interests are:
 
-Geophysics
+<b>Geophysics</b>
 <ul style="list-style: none;">
   <li>Predicting Reversals in Earth's Axial Magnetic Dipole</li>
 </ul>
 
-Pharmaceutical/Heath
+<b>Pharmaceutical/Heath</b>
 <ul style="list-style: none;">
   <li>Predicting Pediatric Sleep Apnea</li>
 </ul>
