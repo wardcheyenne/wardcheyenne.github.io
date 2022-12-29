@@ -1,22 +1,14 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Presentations"
+    url: /
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Geophysics"
+    url: /   
 
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
+  - title: "Pharmaceuticals/Health"
+    url: /   
+  
   - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+    url: /
+   
