@@ -14,7 +14,7 @@ My current research interests are:
 
 Geophysics
 <ul style="list-style: none;">
-  <li>Predicting Reversals in Earth's Magnetic Axial Dipole</li>
+  <li>Predicting Reversals in Earth's Axial Magnetic Dipole</li>
 </ul>
 
 Pharmaceutical/Heath
