@@ -2,11 +2,8 @@
 main:
 
   - title: "Geophysics"
-    url: /portfolio/   
+    url: /Geophysics/   
 
   - title: "Pharmaceuticals/Health"
-    url: /   
+    url: /PH   
   
-  - title: "CV"
-    url: /
-   
