@@ -7,4 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am undergraduate researcher at various instituions.
+I am an undergraduate researcher at various instituions. 
+
+More updates to come...
+
