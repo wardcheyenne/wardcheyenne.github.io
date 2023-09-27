@@ -10,3 +10,5 @@ redirect_from:
 I am a researcher and data scientist at University of California San Diego and NASA Jet Propulsion Laboratory.
 
 My extensive background spans mathematics, statistics, computer science, and data science.
+
+More updates to come!
