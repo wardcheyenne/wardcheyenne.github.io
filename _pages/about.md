@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an undergraduate researcher at various instituions. 
+I am a researcher and data scientist at University of California San Diego and NASA Jet Propulsion Laboratory.
 
-More updates to come...
-
+My extensive background spans mathematics, statistics, computer science, and data science.
