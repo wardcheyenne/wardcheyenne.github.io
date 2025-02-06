@@ -87,13 +87,3 @@ redirect_from:
   <p> School: California State University, San Bernardino</p>
   </div>
 </details>
-
---
-
-## Teaching
-
---
-
-## Research
-
-Updates coming soon!
