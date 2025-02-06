@@ -42,7 +42,7 @@ redirect_from:
     </ul>
   </details>
 </details>
-
+--
 <details>
   <summary>Bachelor of Science in Computer Science</summary>
   <div>
@@ -72,12 +72,13 @@ redirect_from:
     </ul>
   </details>
 </details>
-
+--
 <details>
   <summary>Minor in Data Science</summary>
   <div>
   <p>Class: 2026</p>
   <p> School: California State University, San Bernardino</p>
+  </div>
 </details>
 
 <details>
