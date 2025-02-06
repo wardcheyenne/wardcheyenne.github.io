@@ -57,6 +57,7 @@ Education
       <li>Compilers</li>
       <li>Introduction to Artificial Intelligence</li>
       <li>Parallel Algorithms and Programming</li>
+      <li>Game Programming</li>
       <li>Operating Systems</li>
       <li>Numerical Analysis</li>
       <li>Database Systems</li>
