@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## Education
+Education
 
 <details>
   <summary>Bachelor of Science in Mathematics</summary>
