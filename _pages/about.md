@@ -42,7 +42,6 @@ Education
     </ul>
   </details>
 </details>
---
 <details>
   <summary>Bachelor of Science in Computer Science</summary>
   <div>
@@ -73,7 +72,6 @@ Education
     </ul>
   </details>
 </details>
---
 <details>
   <summary>Minor in Data Science</summary>
   <div>
@@ -81,7 +79,6 @@ Education
   <p> School: California State University, San Bernardino</p>
   </div>
 </details>
-
 <details>
   <summary>Minor in Applied Physics</summary>
   <div>
