@@ -89,7 +89,7 @@ Education
   <p> School: California State University, San Bernardino</p>
   </div>
 </details>
-
+<br>
 Research
 <details>
   <summary>NASA Jet Propulsion Laboratory</summary>
